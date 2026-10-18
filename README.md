@@ -1,10 +1,65 @@
-# Hi, I'm Shotaro Ogawa 👋
+# 【小川 将太郎】
 
-インフラエンジニアを目指して AWS を学習中です。
+AWSを中心としたクラウドインフラと、Node.js・Laravelによるバックエンド開発を行うエンジニアです。
+インフラからアプリケーションまで一貫通関で対応可能です。
 
-## 🛠 Skills
-- AWS（Organizations / IAM / S3 / CloudTrail / IAM Identity Center）
-- AWS CLI / Git
+---
+## 経歴
 
-## 📫 Contact
-- （必要に応じて連絡先や X / Qiita / Zenn などのリンクを記載）
+医療分野で約20年間、勤務医療者としての勤務と開業を経験しました。
+40歳を前にエンジニアへのキャリアチェンジを決意し、現在はクラウドインフラとバックエンドを中心に開発に携わっています。
+医療現場を知る立場から、現場で本当に使われるプロダクトづくりを大切にしています。
+
+---
+
+## 学習履歴
+
+### プログラミング基礎（現役エンジニアによる指導）
+- JavaScript・TypeScriptを中心に学習
+- Git Flowに沿った開発フローでTodoアプリを作成
+- ドメイン駆動設計（DDD）、テスト駆動開発（TDD）、オブジェクト指向プログラミングの基礎を習得
+- 外部APIと連携するアプリケーション開発、React・Reduxによるフロントエンド開発と状態管理を習得
+
+### AWSインフラ（CloudTech Academy 卒業）
+- すべての課題を提出
+- 加えて、構築したインフラをTerraformでコード化し、追加で提出
+
+### 現在の活動
+- Udemy人気講師が運営する学習塾にて、受講生のサポートを担当
+- AWS・Linux・Laravelを用いたWeb開発の学習サポートを実施
+## 主な実績
+
+### Clinical Agent Hub（AIハッカソン 優勝）
+
+医師と患者の診察内容をAIで記録・構造化する、医療機関向けの文書作成支援プロダクトです。
+オンプレミス版をクラウド版として展開し、より多くの医療機関へ普及させることを目的としたプロジェクトに参画しました。
+
+**主な機能**
+- 診察中の会話の文字起こし（STT）
+- 文字起こし内容のSOAP形式への構造化
+- OCRによる薬剤情報の取り込み・転記、紹介状の取り込み
+
+**担当範囲**
+- アプリケーション開発からインフラ構築、本番ローンチまでを一貫して担当
+- Amazon Bedrockを活用した生成AI機能の実装
+- TerraformによるIaC化、GitHub ActionsによるCI/CDの構築
+
+---
+
+## 専門領域
+
+**インフラ（AWS）**
+EC2・VPC、ECS・Fargate、Lambda・API Gateway、RDS・Auroraを用いた構成設計・構築
+Amazon Bedrockを活用した生成AI機能の組み込み
+
+**IaC・CI/CD**
+Terraform・AWS CDKによるインフラのコード化、GitHub Actionsによる自動化、Dockerによるコンテナ化
+
+**バックエンド**
+Node.js（Express・NestJS）、LaravelによるAPI・アプリケーション開発
+
+**データベース・フロントエンド**
+MySQL・PostgreSQL・DynamoDB、React
+
+---
+
